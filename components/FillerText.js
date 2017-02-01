@@ -1,6 +1,4 @@
 const React = require('react')
-const FillerText = require('./FillerText')
-
 
 class FillerText extends React.Component {
   render() {
